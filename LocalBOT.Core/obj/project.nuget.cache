@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MUSxsu8P87H6rDNOhuty1mPAv69d0WlsZK/zv61MzwxVd2RVlF03en4InfO0+JxzvGDholE+05qUdnDcsNcByQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wtt\\source\\repos\\LocalBOT\\LocalBOT.Core\\LocalBOT.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wtt\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

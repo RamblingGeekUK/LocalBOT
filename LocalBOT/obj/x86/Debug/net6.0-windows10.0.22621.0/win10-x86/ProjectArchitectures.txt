@@ -1,0 +1,1 @@
+C:\Users\wtt\source\repos\LocalBOT\LocalBOT\LocalBOT.csproj;x86
