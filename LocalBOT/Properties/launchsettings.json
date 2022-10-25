@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "LocalBOT (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "LocalBOT (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
